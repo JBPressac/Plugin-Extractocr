@@ -28,6 +28,7 @@ Installation
 ```
 
 - Activate it from the admin → Settings → Plugins page
+- If necessary, allow the upload of XML files in the [Security Settings](https://omeka.org/classic/docs/Admin/Settings/Security_Settings/): Add `xml` to the `Allowed File Extensions` list and `application/xml` to the `Allowed File Types` list.
 - Click the Configure link to process or not existing PDF files.
 
 
